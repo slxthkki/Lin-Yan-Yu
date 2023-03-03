@@ -1,5 +1,15 @@
-# Lin-Yan-Yu
-111-2 師大科技系程式語言
-授課老師：蔡芸琤老師
-姓名：林彥妤
-系級：科技系2年級
+111-1 師大科技系程式語言
+
+Information
+>Teacher:蔡芸琤<br/>
+>Name:[林彥妤](https://slxthkki.github.io/web/)
+>Class:科技系二年級
+
+
+---
+
+
+Contents
+**[HW](#hw)**<br/>
+**[Notes](#notes)**<br/>
+**[Projet](#project)**<br/>
