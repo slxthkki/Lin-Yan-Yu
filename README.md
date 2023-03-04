@@ -2,7 +2,7 @@
 
 Information
 >Teacher:蔡芸琤<br/>
->Name:[林彥妤](https://slxthkki.github.io/web/)
+>Name:[林彥妤]
 >Class:科技系二年級
 
 
