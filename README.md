@@ -2,7 +2,7 @@
 
 Information
 >Teacher:蔡芸琤<br/>
->Name:[林彥妤]
+>Name:林彥妤
 >Class:科技系二年級
 
 
@@ -10,6 +10,6 @@ Information
 
 
 Contents
->**[HW](#hw)**<br/>
->**[Notes](#notes)**<br/>
->**[Projet](#project)**<br/>
+>**[作業連結區](#作業連結區)**<br/>
+>**[課程筆記區](#課程筆記區)**<br/>
+>**[專題連結區](#專題連結區)**<br/>
