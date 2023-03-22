@@ -13,3 +13,6 @@ Contents
 >**[作業連結區](#作業連結區)**<br/>
 >**[課程筆記區](#課程筆記區)**<br/>
 >**[專題連結區](#專題連結區)**<br/>
+
+> ##### 作業連結區 
+> [作業一](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW1.ipynb) <br />
