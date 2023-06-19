@@ -16,3 +16,4 @@ Contents
 
 > ##### 作業連結區 
 > [作業一](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW1.ipynb) <br />
+> [作業二](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW2-final.ipynb) <br />
