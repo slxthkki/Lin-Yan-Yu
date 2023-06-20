@@ -16,5 +16,5 @@ Contents
 
 > ##### 作業連結區 
 > [作業一](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW1.ipynb) <br />
-> [作業二](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW2-final.ipynb) <br />
-> [作業三](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW3.ipynb) <br />
+> [作業二](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW2-final.ipynb) <br /> [視覺化圖表PNG檔] (https://github.com/slxthkki/Lin-Yan-Yu/blob/main/newplot.png) <br />
+> [作業三](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW3.ipynb) <br /> [JSON檔] (https://github.com/slxthkki/Lin-Yan-Yu/blob/main/coffee_shops.json) <br />
