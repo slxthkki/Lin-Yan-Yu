@@ -1,0 +1,248 @@
+[
+    {
+        "number": "1.",
+        "content": "Apple Museum Cafe",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區溫州街 74 巷 3 弄 5 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週一至週六 12:00-21:00"
+    },
+    {
+        "number": "2.",
+        "content": "Hedge Cafe 對沖咖啡",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區溫州街 74 巷 5 弄 3 號 1 樓",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週三至週一 14:00-22:00"
+    },
+    {
+        "number": "3.",
+        "content": "城市草倉 C-tea loft",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區羅斯福路三段 283 巷 19 弄 4 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週一至週日 12:00-22:00"
+    },
+    {
+        "number": "4.",
+        "content": "璞豆咖啡.日常",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區溫州街 66 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週二至週日 12:00-20:00"
+    },
+    {
+        "number": "5.",
+        "content": "羊毛與花 ‧ 溫州",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區新生南路三段 60 巷 1 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週一至週日 12:00-23:00"
+    },
+    {
+        "number": "6.",
+        "content": "聞山咖啡 臺大店",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區新生南路三段 56 巷 11 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週一至週日 13:00-22:00"
+    },
+    {
+        "number": "7.",
+        "content": "Ville Cafe",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市中正區羅斯福路三段 284 巷 5 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週一至週五 11:30-22:00"
+    },
+    {
+        "number": "8.",
+        "content": "法點法食 FA DEN FA SAï",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市汀州路三段 210 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週四至週一 12:00-19:00"
+    },
+    {
+        "number": "9.",
+        "content": "苔毛咖啡",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區嘉興街 345 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週二至週五 12:00-19:00"
+    },
+    {
+        "number": "10.",
+        "content": "休習日",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市樂業街 41 巷 2 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週二至週日 11:30-21:00"
+    },
+    {
+        "number": "11.",
+        "content": "好物 Spirit 咖啡",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區安和路二段 189 巷 17 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週一至週日 10:00-20:00"
+    },
+    {
+        "number": "12.",
+        "content": "參差 餘波未了（暫時停業）",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市中正區羅斯福路三段 128 巷 9 號",
+        "opening_hour": ""
+    },
+    {
+        "number": "13.",
+        "content": "The Who Cafe 框影咖啡 永康店",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區麗水街 2-1 號 2 樓",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週一至週日 11:00-21:00"
+    },
+    {
+        "number": "14.",
+        "content": "羊毛與花 Coffee",
+        "address": "",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "台北市大安區永康街 37 巷 12 號 1 樓",
+        "opening_hour": ""
+    },
+    {
+        "number": "",
+        "content": "",
+        "address": "",
+        "opening_hour": "週一至週日 12:00-22:00"
+    }
+]
