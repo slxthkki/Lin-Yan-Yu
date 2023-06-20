@@ -18,7 +18,7 @@ Contents
 > [作業一](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW1.ipynb) <br />
 > [作業二](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW2-final.ipynb) <br /> [視覺化圖表PNG檔] (https://github.com/slxthkki/Lin-Yan-Yu/blob/main/newplot.png) <br />
 > [作業三](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW3.ipynb) <br /> [JSON檔] (https://github.com/slxthkki/Lin-Yan-Yu/blob/main/coffee_shops.json) <br />
-> [作業四](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW4.ipynb) <br /> [JSON檔] (https://github.com/slxthkki/Lin-Yan-Yu/blob/main/data.csv) <br />
+> [作業四](https://github.com/slxthkki/Lin-Yan-Yu/blob/main/HW4.ipynb) <br /> [CSV檔] (https://github.com/slxthkki/Lin-Yan-Yu/blob/main/data.csv) <br />
 
 > ##### 專題連結區
 > [師大排課小幫手簡報](https://www.canva.com/design/DAFi9itFI4s/FMxXaRVunuoyVbBdmgjLUg/view?utm_content=DAFi9itFI4s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br />
